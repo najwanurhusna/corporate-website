@@ -1,0 +1,46 @@
+/* CSS Layout */
+
+
+/* Main Background */
+.page {background-color:#F7F9FB; width:80%; margin:auto; padding:10px;}
+
+
+
+/* Header Section */
+.main-header {background-color:#e6ccff; font-family: Garamond, serif; font-weight: bold;}
+
+
+
+/* Navigation Section */
+.nav-main {background-color:#e6ccff; text-align:center; font-family: Garamond, serif; font-size:large; font-weight: bold; padding:10px;}
+
+a:hover {background-color: yellow;}
+
+/* unvisited link */
+a:link {color: green;}
+
+/* visited link */
+a:visited {color: purple;}
+
+/* mouse over link */
+a:hover {color: black;}
+
+/* selected link */
+a:active {color: yellow;}
+
+
+
+
+/* Main Section */
+.main {background-color:#F7F9FB; text-align:center; font-family: Garamond, serif; font-size:large; font-weight: bold; width:80%; float:left;}
+
+
+
+
+/* Sidebar Section */
+.sidebar {background-color:#e6ccff; text-align:justify; font-family: Garamond, serif; font-weight: bold; width:20%; float:right;}
+
+
+
+/* Footer Section */
+.main-footer {background-color:#e6ccff; font-family: Garamond, serif; font-weight: bold; clear:both; padding:10px;}
